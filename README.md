@@ -49,3 +49,7 @@ YK_card/
 Blender 4.5（Cycles 渲染 + 节点着色器）、Three.js（GLSL 实时材质）、Node.js、Bun
 
 > Blender 自研着色器节点图在网页端以 GLSL 等价重建，实时渲染与离线渲染存在细微差异属预期。
+
+## 部署说明（Cloudflare Workers）
+
+仓库根目录包含 `wrangler.toml`，指定静态资源目录为 `./web`。连接 GitHub 后 push 到 `main` 分支即自动部署。
