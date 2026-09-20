@@ -1,0 +1,103 @@
+{
+  "video_path": "C:\\Users\\林绎客\\Downloads\\澜_雾影狼魂（闪光海报）_动态闪光海报.mp4",
+  "output_dir": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames",
+  "frames": [
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000000000.jpg",
+      "time_ms": 0,
+      "time": "00:00:00.000",
+      "target_ms": 0,
+      "target_time": "00:00:00.000",
+      "window_id": "full"
+    },
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000001300.jpg",
+      "time_ms": 1300,
+      "time": "00:00:01.300",
+      "target_ms": 1300,
+      "target_time": "00:00:01.300",
+      "window_id": "full"
+    },
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000002600.jpg",
+      "time_ms": 2600,
+      "time": "00:00:02.600",
+      "target_ms": 2600,
+      "target_time": "00:00:02.600",
+      "window_id": "full"
+    },
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000003900.jpg",
+      "time_ms": 3900,
+      "time": "00:00:03.900",
+      "target_ms": 3900,
+      "target_time": "00:00:03.900",
+      "window_id": "full"
+    },
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000005200.jpg",
+      "time_ms": 5200,
+      "time": "00:00:05.200",
+      "target_ms": 5200,
+      "target_time": "00:00:05.200",
+      "window_id": "full"
+    },
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000006500.jpg",
+      "time_ms": 6500,
+      "time": "00:00:06.500",
+      "target_ms": 6500,
+      "target_time": "00:00:06.500",
+      "window_id": "full"
+    },
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000009100.jpg",
+      "time_ms": 9100,
+      "time": "00:00:09.100",
+      "target_ms": 9100,
+      "target_time": "00:00:09.100",
+      "window_id": "full"
+    },
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000010400.jpg",
+      "time_ms": 10400,
+      "time": "00:00:10.400",
+      "target_ms": 10400,
+      "target_time": "00:00:10.400",
+      "window_id": "full"
+    },
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000011700.jpg",
+      "time_ms": 11700,
+      "time": "00:00:11.700",
+      "target_ms": 11700,
+      "target_time": "00:00:11.700",
+      "window_id": "full"
+    },
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000013000.jpg",
+      "time_ms": 13000,
+      "time": "00:00:13.000",
+      "target_ms": 13000,
+      "target_time": "00:00:13.000",
+      "window_id": "full"
+    },
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000014300.jpg",
+      "time_ms": 14300,
+      "time": "00:00:14.300",
+      "target_ms": 14300,
+      "target_time": "00:00:14.300",
+      "window_id": "full"
+    },
+    {
+      "path": "C:\\Users\\林绎客\\AppData\\Local\\Doubao\\User Data\\Default\\.doubao\\agent_mode\\workspace\\holo-card-project\\shots\\flash-frames\\full\\000015583.jpg",
+      "time_ms": 15583,
+      "time": "00:00:15.583",
+      "target_ms": 15600,
+      "target_time": "00:00:15.600",
+      "window_id": "full"
+    }
+  ],
+  "count": 12
+}

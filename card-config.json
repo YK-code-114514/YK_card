@@ -1,0 +1,30 @@
+{
+  "title": "云海之上",
+  "subtitle": "山野系列 · 典藏",
+  "technique": "层云叠嶂",
+  "tagline": "愿每一个清晨，都能望见远方的山与云",
+  "edition": "001 / 001",
+  "collection": "山野全息典藏",
+  "description": "一张关于山与云海的 3D 全息闪卡，取自「闪卡工坊」山野模板。",
+  "font": "C:/Windows/Fonts/simkai.ttf",
+  "assets": {
+    "model": "./assets/card.glb",
+    "subject": "./assets/subject.png",
+    "background": "./assets/background.png",
+    "text": "./assets/text.png",
+    "lineart": "./assets/lineart.png"
+  },
+  "parameters": {
+    "subjectScale": 1.25,
+    "subjectDepth": 0.28,
+    "backgroundDepth": -0.2,
+    "foil": 0.65
+  },
+  "safeArea": {
+    "scale": 1.12,
+    "offset": [
+      -0.06,
+      -0.085
+    ]
+  }
+}

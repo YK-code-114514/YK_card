@@ -1,0 +1,15 @@
+# Blender 便携工具包（约 1.3GB，运行时用 ensure_blender.py 自动下载）
+tools/
+
+# 前端依赖（npm install 重建）
+web/node_modules/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.log
+desktop.ini
+
+# 临时脚本产物
+__pycache__/
+*.pyc
